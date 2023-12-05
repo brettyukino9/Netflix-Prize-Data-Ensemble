@@ -12,7 +12,7 @@ CSC_522_Project_-_Cosine_Similarity - Mode.ipynb - Cosine Similairty Mode classi
 
 CSC_522_Project_M.py - ANOVA classifer
 
-CSC_522_Project_Preprocessing.ipynb - ?
+CSC_522_Project_Preprocessing.ipynb - To Download the dataset from the UCI repository and aggregate the text files into the dataset
 
 Movie Titles Cleanup.py - Script to preprocess the movie title data set
 
