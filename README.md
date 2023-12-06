@@ -14,6 +14,8 @@ CSC_522_Project_M.py - ANOVA classifer
 
 CSC_522_Project_Preprocessing.ipynb - To Download the dataset from the UCI repository and aggregate the text files into the dataset
 
+CSC_522_knn_recommendation.ipynb - A KNN based recommendation system built from the dataset.
+
 Movie Titles Cleanup.py - Script to preprocess the movie title data set
 
 Netflix Data Cleanup.py - Original Script to turn the Kaggle text files into a csv
