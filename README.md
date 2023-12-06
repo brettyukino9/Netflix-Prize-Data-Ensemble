@@ -7,12 +7,14 @@ CSC_522_Project - AVG score .ipynb - Average score classifier
 
 CSC_522_Project - RBM.ipynb - RBM classifier
 
-CSC_522_Project_-_Cosine_Similarity.ipynb - Cosine Similairty Mode classifier
+CSC_522_Project_-_Cosine_Similarity - Mode.ipynb - Cosine Similairty Mode classifier
 
 
 CSC_522_Project_M.py - ANOVA classifer
 
-CSC_522_Project_Preprocessing.ipynb - ?
+CSC_522_Project_Preprocessing.ipynb - To Download the dataset from the UCI repository and aggregate the text files into the dataset
+
+CSC_522_knn_recommendation.ipynb - A KNN based recommendation system built from the dataset.
 
 Movie Titles Cleanup.py - Script to preprocess the movie title data set
 
