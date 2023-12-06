@@ -11,6 +11,8 @@ CSC_522_Project - RBM.ipynb - RBM classifier
 
 CSC_522_Project_-_Cosine_Similarity - Mode.ipynb - Cosine Similairty Mode classifier
 
+CSC_522_Project_-_Cosine_Similarity_2.ipynb - Cosine Similarity Weighted Average Ratings Prediction
+
 CSC_522_Project_M.py - ANOVA classifer
 
 CSC_522_Project_Preprocessing.ipynb - To Download the dataset from the UCI repository and aggregate the text files into the dataset
